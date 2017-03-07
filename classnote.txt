@@ -1,0 +1,2 @@
+cat data/*/numbers.txt | sort -n -r | head -n 1 (find the maximum)
+cat data/*/numbers.txt | sort -n | head -n 1 (find the minimum)
